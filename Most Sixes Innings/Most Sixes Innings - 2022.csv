@@ -1,0 +1,515 @@
+POS,Player,Runs,BF,SR,4s,6s,Against,Venue,Match Date
+1,Quinton De Kock,140,70,200,10,10,KKR,DY Patil Stadium,18 May 2022
+2,Robin Uthappa,88,50,176,4,9,RCB,DY Patil Stadium,12 April 2022
+3,Jos Buttler,116,65,178.46,9,9,DC,Wankhede Stadium,22 April 2022
+4,Andre Russell,70,31,225.8,2,8,PBKS,Wankhede Stadium,01 April 2022
+5,Shivam Dube,95,46,206.52,5,8,RCB,DY Patil Stadium,12 April 2022
+6,Mitchell Marsh,89,62,143.54,5,7,RR,DY Patil Stadium,11 May 2022
+7,Faf Du Plessis,88,57,154.38,3,7,PBKS,DY Patil Stadium,27 March 2022
+8,Jonny Bairstow,66,29,227.58,4,7,RCB,Brabourne - CCI,13 May 2022
+9,Rajat Patidar,112,54,207.4,12,7,LSG,Eden Gardens,25 May 2022
+10,Pat Cummins,56,15,373.33,4,6,MI,Maharashtra Cricket Association Stadium,06 April 2022
+11,Ambati Rayudu,78,39,200,7,6,PBKS,Wankhede Stadium,25 April 2022
+12,Ruturaj Gaikwad,99,57,173.68,6,6,SRH,Maharashtra Cricket Association Stadium,01 May 2022
+13,David Miller,94,51,184.31,8,6,CSK,Maharashtra Cricket Association Stadium,17 April 2022
+14,Nicholas Pooran,64,33,193.93,3,6,CSK,Maharashtra Cricket Association Stadium,01 May 2022
+15,Nicholas Pooran,62,34,182.35,2,6,DC,Brabourne - CCI,05 May 2022
+16,Andre Russell,48,25,192,1,6,GT,DY Patil Stadium,23 April 2022
+17,Suryakumar Yadav,68,37,183.78,5,6,RCB,Maharashtra Cricket Association Stadium,09 April 2022
+18,Jos Buttler,70,47,148.93,0,6,RCB,Wankhede Stadium,05 April 2022
+19,Jos Buttler,106,60,176.66,10,6,RCB,Narendra Modi Stadium,27 May 2022
+20,Rahul Tripathi,71,37,191.89,4,6,KKR,Brabourne - CCI,15 April 2022
+21,Shimron Hetmyer,59,36,163.88,1,6,LSG,Wankhede Stadium,10 April 2022
+22,Rovman Powell,67,35,191.42,3,6,SRH,Brabourne - CCI,05 May 2022
+23,Anuj Rawat,66,47,140.42,2,6,MI,Maharashtra Cricket Association Stadium,09 April 2022
+24,Dinesh Karthik,66,34,194.11,5,5,DC,Wankhede Stadium,16 April 2022
+25,K L Rahul,103,60,171.66,9,5,MI,Brabourne - CCI,16 April 2022
+26,K L Rahul,79,58,136.2,3,5,RCB,Eden Gardens,25 May 2022
+27,K L Rahul,77,51,150.98,4,5,DC,Wankhede Stadium,01 May 2022
+28,Ruturaj Gaikwad,73,48,152.08,5,5,GT,Maharashtra Cricket Association Stadium,17 April 2022
+29,David Miller,68,38,178.94,3,5,RR,Eden Gardens,24 May 2022
+30,Andre Russell,45,19,236.84,3,5,LSG,Maharashtra Cricket Association Stadium,07 May 2022
+31,Jos Buttler,103,61,168.85,9,5,KKR,Brabourne - CCI,18 April 2022
+32,Jos Buttler,100,68,147.05,11,5,MI,DY Patil Stadium,02 April 2022
+33,Liam Livingstone,60,32,187.5,5,5,CSK,Brabourne - CCI,03 April 2022
+34,Liam Livingstone,49,22,222.72,2,5,SRH,Wankhede Stadium,22 May 2022
+35,Sanju Samson,55,27,203.7,3,5,SRH,Maharashtra Cricket Association Stadium,29 March 2022
+36,David Warner,66,38,173.68,4,5,RCB,Wankhede Stadium,16 April 2022
+37,Rovman Powell,36,15,240,0,5,RR,Wankhede Stadium,22 April 2022
+38,Devon Conway,87,49,177.55,7,5,DC,DY Patil Stadium,08 May 2022
+39,Dewald Brevis,49,25,196,4,5,PBKS,Maharashtra Cricket Association Stadium,13 April 2022
+40,Tilak Varma,61,33,184.84,3,5,RR,DY Patil Stadium,02 April 2022
+41,Rohit Sharma,48,36,133.33,2,4,SRH,Wankhede Stadium,17 May 2022
+42,Shreyas Iyer,85,51,166.66,7,4,RR,Brabourne - CCI,18 April 2022
+43,Dinesh Karthik,30,8,375,1,4,SRH,Wankhede Stadium,08 May 2022
+44,K L Rahul,103,62,166.12,12,4,MI,Wankhede Stadium,24 April 2022
+45,K L Rahul,68,51,133.33,3,4,KKR,DY Patil Stadium,18 May 2022
+46,Marcus Stoinis,38,17,223.52,2,4,RR,Wankhede Stadium,10 April 2022
+47,Hardik Pandya,87,52,167.3,8,4,RR,DY Patil Stadium,14 April 2022
+48,Shubman Gill,84,46,182.6,6,4,DC,Maharashtra Cricket Association Stadium,02 April 2022
+49,Kane Williamson,57,46,123.91,2,4,GT,DY Patil Stadium,11 April 2022
+50,Andre Russell,49,25,196,4,4,SRH,Brabourne - CCI,15 April 2022
+51,Andre Russell,49,28,175,3,4,SRH,Maharashtra Cricket Association Stadium,14 May 2022
+52,Nitish Rana,43,26,165.38,3,4,MI,DY Patil Stadium,09 May 2022
+53,Nitish Rana,57,34,167.64,3,4,DC,Wankhede Stadium,28 April 2022
+54,Rinku Singh,40,15,266.66,2,4,LSG,DY Patil Stadium,18 May 2022
+55,Ishan Kishan,48,35,137.14,3,4,DC,Wankhede Stadium,21 May 2022
+56,Suryakumar Yadav,43,30,143.33,1,4,PBKS,Maharashtra Cricket Association Stadium,13 April 2022
+57,Jos Buttler,67,52,128.84,5,4,MI,DY Patil Stadium,30 April 2022
+58,Liam Livingstone,70,42,166.66,5,4,RCB,Brabourne - CCI,13 May 2022
+59,Liam Livingstone,60,33,181.81,5,4,SRH,DY Patil Stadium,17 April 2022
+60,Liam Livingstone,64,27,237.03,7,4,GT,Brabourne - CCI,08 April 2022
+61,Riyan Parag,56,31,180.64,3,4,RCB,Maharashtra Cricket Association Stadium,26 April 2022
+62,Deepak Hooda,45,26,173.07,1,4,RCB,Eden Gardens,25 May 2022
+63,Rashid Khan,31,11,281.81,0,4,SRH,Wankhede Stadium,27 April 2022
+64,Aiden Markram,68,36,188.88,6,4,KKR,Brabourne - CCI,15 April 2022
+65,Rovman Powell,43,34,126.47,1,4,MI,Wankhede Stadium,21 May 2022
+66,Bhanuka Rajapaksa,43,22,195.45,2,4,RCB,DY Patil Stadium,27 March 2022
+67,Venkatesh Iyer,43,24,179.16,3,4,MI,DY Patil Stadium,09 May 2022
+68,Devon Conway,85,55,154.54,8,4,SRH,Maharashtra Cricket Association Stadium,01 May 2022
+69,Tim David,46,18,255.55,3,4,SRH,Wankhede Stadium,17 May 2022
+70,Tim David,34,11,309.09,2,4,DC,Wankhede Stadium,21 May 2022
+71,Tim David,44,21,209.52,2,4,GT,Brabourne - CCI,06 May 2022
+72,Shikhar Dhawan,70,50,140,5,3,MI,Maharashtra Cricket Association Stadium,13 April 2022
+73,Shreyas Iyer,50,29,172.41,4,3,LSG,DY Patil Stadium,18 May 2022
+74,Dinesh Karthik,32,14,228.57,3,3,PBKS,DY Patil Stadium,27 March 2022
+75,Dinesh Karthik,34,14,242.85,2,3,CSK,DY Patil Stadium,12 April 2022
+76,Rishabh Pant,26,16,162.5,1,3,SRH,Brabourne - CCI,05 May 2022
+77,K L Rahul,40,26,153.84,2,3,CSK,Brabourne - CCI,31 March 2022
+78,Marcus Stoinis,28,14,200,1,3,KKR,Maharashtra Cricket Association Stadium,07 May 2022
+79,Mitchell Marsh,37,20,185,3,3,LSG,Wankhede Stadium,01 May 2022
+80,Mitchell Marsh,63,48,131.25,4,3,PBKS,DY Patil Stadium,16 May 2022
+81,Ajinkya Rahane,28,24,116.66,0,3,SRH,Maharashtra Cricket Association Stadium,14 May 2022
+82,Ravichandran Ashwin,40,23,173.91,2,3,CSK,Brabourne - CCI,20 May 2022
+83,Hardik Pandya,62,47,131.91,4,3,RCB,Wankhede Stadium,19 May 2022
+84,Ambati Rayudu,40,35,114.28,2,3,MI,DY Patil Stadium,21 April 2022
+85,Sam Billings,36,24,150,2,3,LSG,DY Patil Stadium,18 May 2022
+86,Shardul Thakur,29,11,263.63,1,3,KKR,Brabourne - CCI,10 April 2022
+87,Axar Patel,38,17,223.52,2,3,MI,Brabourne - CCI,27 March 2022
+88,Axar Patel,42,24,175,1,3,LSG,Wankhede Stadium,01 May 2022
+89,David Miller,34,25,136,0,3,RCB,Wankhede Stadium,19 May 2022
+90,Nicholas Pooran,38,22,172.72,2,3,MI,Wankhede Stadium,17 May 2022
+91,Andre Russell,25,18,138.88,1,3,RCB,DY Patil Stadium,30 March 2022
+92,Nitish Rana,30,20,150,0,3,DC,Brabourne - CCI,10 April 2022
+93,Nitish Rana,26,16,162.5,1,3,SRH,Maharashtra Cricket Association Stadium,14 May 2022
+94,Sunil Narine,21,7,300,0,3,LSG,DY Patil Stadium,18 May 2022
+95,Evin Lewis,55,23,239.13,6,3,CSK,Brabourne - CCI,31 March 2022
+96,Kieron Pollard,22,5,440,0,3,KKR,Maharashtra Cricket Association Stadium,06 April 2022
+97,Quinton De Kock,50,29,172.41,4,3,KKR,Maharashtra Cricket Association Stadium,07 May 2022
+98,Jos Buttler,54,24,225,8,3,GT,DY Patil Stadium,14 April 2022
+99,Jos Buttler,35,28,125,3,3,SRH,Maharashtra Cricket Association Stadium,29 March 2022
+100,Liam Livingstone,30,10,300,2,3,GT,DY Patil Stadium,03 May 2022
+101,Rahul Tripathi,76,44,172.72,9,3,MI,Wankhede Stadium,17 May 2022
+102,Sanju Samson,27,21,128.57,1,3,RCB,Maharashtra Cricket Association Stadium,26 April 2022
+103,Sanju Samson,30,21,142.85,1,3,MI,DY Patil Stadium,02 April 2022
+104,Sanju Samson,46,19,242.1,5,3,DC,Wankhede Stadium,22 April 2022
+105,Sanju Samson,47,26,180.76,5,3,GT,Eden Gardens,24 May 2022
+106,Shashank Singh,25,6,416.66,1,3,GT,Wankhede Stadium,27 April 2022
+107,Moeen Ali,93,57,163.15,13,3,RR,Brabourne - CCI,20 May 2022
+108,Shimron Hetmyer,35,14,250,3,3,MI,DY Patil Stadium,02 April 2022
+109,Shimron Hetmyer,32,13,246.15,2,3,SRH,Maharashtra Cricket Association Stadium,29 March 2022
+110,Shivam Dube,57,30,190,6,3,PBKS,Brabourne - CCI,03 April 2022
+111,Abhishek Sharma,65,42,154.76,6,3,GT,Wankhede Stadium,27 April 2022
+112,Abhishek Sharma,75,50,150,5,3,CSK,DY Patil Stadium,09 April 2022
+113,David Warner,92,58,158.62,12,3,SRH,Brabourne - CCI,05 May 2022
+114,Deepak Hooda,51,33,154.54,3,3,SRH,DY Patil Stadium,04 April 2022
+115,Rashid Khan,40,21,190.47,2,3,CSK,Maharashtra Cricket Association Stadium,17 April 2022
+116,Aiden Markram,42,25,168,4,3,DC,Brabourne - CCI,05 May 2022
+117,Aiden Markram,32,25,128,0,3,KKR,Maharashtra Cricket Association Stadium,14 May 2022
+118,Aiden Markram,56,40,140,2,3,GT,Wankhede Stadium,27 April 2022
+119,Rovman Powell,33,16,206.25,1,3,KKR,Wankhede Stadium,28 April 2022
+120,Bhanuka Rajapaksa,31,9,344.44,3,3,KKR,Wankhede Stadium,01 April 2022
+121,Shahbaz Ahmed,45,26,173.07,4,3,RR,Wankhede Stadium,05 April 2022
+122,Shahbaz Ahmed,27,20,135,0,3,KKR,DY Patil Stadium,30 March 2022
+123,Rajat Patidar,58,42,138.09,4,3,RR,Narendra Modi Stadium,27 May 2022
+124,Dewald Brevis,37,33,112.12,1,3,DC,Wankhede Stadium,21 May 2022
+125,Odean Smith,25,8,312.5,1,3,RCB,DY Patil Stadium,27 March 2022
+126,Ayush Badoni,54,41,131.7,4,3,GT,Wankhede Stadium,28 March 2022
+127,Jitesh Sharma,26,17,152.94,0,3,CSK,Brabourne - CCI,03 April 2022
+128,Virat Kohli,73,54,135.18,8,2,GT,Wankhede Stadium,19 May 2022
+129,Virat Kohli,41,29,141.37,1,2,PBKS,DY Patil Stadium,27 March 2022
+130,Aaron Finch,58,28,207.14,9,2,RR,Brabourne - CCI,18 April 2022
+131,Rohit Sharma,28,17,164.7,3,2,PBKS,Maharashtra Cricket Association Stadium,13 April 2022
+132,Rohit Sharma,43,28,153.57,5,2,GT,Brabourne - CCI,06 May 2022
+133,Rohit Sharma,41,32,128.12,4,2,DC,Brabourne - CCI,27 March 2022
+134,Shikhar Dhawan,39,32,121.87,2,2,SRH,Wankhede Stadium,22 May 2022
+135,Shikhar Dhawan,88,59,149.15,9,2,CSK,Wankhede Stadium,25 April 2022
+136,Shreyas Iyer,54,33,163.63,5,2,DC,Brabourne - CCI,10 April 2022
+137,Dinesh Karthik,26,17,152.94,1,2,CSK,Maharashtra Cricket Association Stadium,04 May 2022
+138,Krunal Pandya,42,28,150,5,2,RCB,DY Patil Stadium,19 April 2022
+139,Rishabh Pant,27,14,192.85,2,2,KKR,Brabourne - CCI,10 April 2022
+140,Rishabh Pant,34,17,200,3,2,RCB,Wankhede Stadium,16 April 2022
+141,Rishabh Pant,44,24,183.33,4,2,RR,Wankhede Stadium,22 April 2022
+142,Rishabh Pant,13,4,325,0,2,RR,DY Patil Stadium,11 May 2022
+143,Rishabh Pant,39,36,108.33,3,2,LSG,DY Patil Stadium,07 April 2022
+144,Washington Sundar,40,14,285.71,5,2,RR,Maharashtra Cricket Association Stadium,29 March 2022
+145,Umesh Yadav,21,9,233.33,1,2,RR,Brabourne - CCI,18 April 2022
+146,Marcus Stoinis,27,17,158.82,1,2,RR,Brabourne - CCI,15 May 2022
+147,Glenn Maxwell,33,24,137.5,3,2,SRH,Wankhede Stadium,08 May 2022
+148,Glenn Maxwell,33,18,183.33,3,2,GT,Brabourne - CCI,30 April 2022
+149,Glenn Maxwell,40,18,222.22,5,2,GT,Wankhede Stadium,19 May 2022
+150,Glenn Maxwell,55,34,161.76,7,2,DC,Wankhede Stadium,16 April 2022
+151,Glenn Maxwell,26,11,236.36,2,2,CSK,DY Patil Stadium,12 April 2022
+152,Glenn Maxwell,24,13,184.61,1,2,RR,Narendra Modi Stadium,27 May 2022
+153,Ravichandran Ashwin,50,38,131.57,4,2,DC,DY Patil Stadium,11 May 2022
+154,Ravichandran Ashwin,28,23,121.73,0,2,LSG,Wankhede Stadium,10 April 2022
+155,Ravindra Jadeja,22,12,183.33,0,2,GT,Maharashtra Cricket Association Stadium,17 April 2022
+156,Prithvi Shaw,61,34,179.41,9,2,LSG,DY Patil Stadium,07 April 2022
+157,Prithvi Shaw,38,24,158.33,4,2,MI,Brabourne - CCI,27 March 2022
+158,Prithvi Shaw,51,29,175.86,7,2,KKR,Brabourne - CCI,10 April 2022
+159,Hardik Pandya,67,49,136.73,4,2,KKR,DY Patil Stadium,23 April 2022
+160,Mayank Agarwal,32,24,133.33,2,2,RCB,DY Patil Stadium,27 March 2022
+161,Mayank Agarwal,25,17,147.05,2,2,LSG,Maharashtra Cricket Association Stadium,29 April 2022
+162,Mayank Agarwal,52,32,162.5,6,2,MI,Maharashtra Cricket Association Stadium,13 April 2022
+163,MS Dhoni,21,8,262.5,1,2,DC,DY Patil Stadium,08 May 2022
+164,MS Dhoni,36,33,109.09,4,2,MI,Wankhede Stadium,12 May 2022
+165,Ambati Rayudu,46,31,148.38,4,2,GT,Maharashtra Cricket Association Stadium,17 April 2022
+166,Ambati Rayudu,27,20,135,2,2,LSG,Brabourne - CCI,31 March 2022
+167,Shubman Gill,52,36,144.44,6,2,MI,Brabourne - CCI,06 May 2022
+168,Kane Williamson,47,37,127.02,2,2,CSK,Maharashtra Cricket Association Stadium,01 May 2022
+169,Faf Du Plessis,96,64,150,11,2,LSG,DY Patil Stadium,19 April 2022
+170,Faf Du Plessis,73,50,146,8,2,SRH,Wankhede Stadium,08 May 2022
+171,Sam Billings,17,12,141.66,0,2,MI,Maharashtra Cricket Association Stadium,06 April 2022
+172,Shardul Thakur,17,9,188.88,0,2,RCB,Wankhede Stadium,16 April 2022
+173,Avesh Khan,12,4,300,0,2,GT,Maharashtra Cricket Association Stadium,10 May 2022
+174,Axar Patel,19,10,190,0,2,MI,Wankhede Stadium,21 May 2022
+175,Rahul Tewatia,40,21,190.47,4,2,SRH,Wankhede Stadium,27 April 2022
+176,Rahul Tewatia,43,25,172,5,2,RCB,Brabourne - CCI,30 April 2022
+177,Rahul Tewatia,40,24,166.66,5,2,LSG,Wankhede Stadium,28 March 2022
+178,Rahul Tewatia,13,3,433.33,0,2,PBKS,Brabourne - CCI,08 April 2022
+179,David Miller,30,21,142.85,1,2,LSG,Wankhede Stadium,28 March 2022
+180,David Miller,27,20,135,1,2,KKR,DY Patil Stadium,23 April 2022
+181,Nicholas Pooran,34,24,141.66,3,2,LSG,DY Patil Stadium,04 April 2022
+182,Nicholas Pooran,34,18,188.88,2,2,GT,DY Patil Stadium,11 April 2022
+183,Nitish Rana,54,36,150,6,2,SRH,Brabourne - CCI,15 April 2022
+184,Nitish Rana,48,37,129.72,3,2,RR,Wankhede Stadium,02 May 2022
+185,Robin Uthappa,28,21,133.33,2,2,KKR,Wankhede Stadium,26 March 2022
+186,Robin Uthappa,30,25,120,2,2,MI,DY Patil Stadium,21 April 2022
+187,Ishan Kishan,81,48,168.75,11,2,DC,Brabourne - CCI,27 March 2022
+188,Kieron Pollard,25,14,178.57,1,2,LSG,Brabourne - CCI,16 April 2022
+189,Quinton De Kock,46,37,124.32,4,2,PBKS,Maharashtra Cricket Association Stadium,29 April 2022
+190,Quinton De Kock,80,52,153.84,9,2,DC,DY Patil Stadium,07 April 2022
+191,Suryakumar Yadav,52,36,144.44,5,2,KKR,Maharashtra Cricket Association Stadium,06 April 2022
+192,Suryakumar Yadav,51,39,130.76,5,2,RR,DY Patil Stadium,30 April 2022
+193,Jos Buttler,89,56,158.92,12,2,GT,Eden Gardens,24 May 2022
+194,Liam Livingstone,19,10,190,0,2,RCB,DY Patil Stadium,27 March 2022
+195,Liam Livingstone,18,16,112.5,0,2,LSG,Maharashtra Cricket Association Stadium,29 April 2022
+196,Liam Livingstone,22,14,157.14,1,2,RR,Wankhede Stadium,07 May 2022
+197,Liam Livingstone,19,7,271.42,1,2,CSK,Wankhede Stadium,25 April 2022
+198,Mahipal Lomror,42,27,155.55,3,2,CSK,Maharashtra Cricket Association Stadium,04 May 2022
+199,Manan Vohra,19,11,172.72,1,2,RCB,Eden Gardens,25 May 2022
+200,Rahul Tripathi,58,37,156.75,6,2,RCB,Wankhede Stadium,08 May 2022
+201,Rahul Tripathi,39,15,260,5,2,CSK,DY Patil Stadium,09 April 2022
+202,Riyan Parag,19,12,158.33,1,2,KKR,Wankhede Stadium,02 May 2022
+203,Sanju Samson,38,19,200,3,2,KKR,Brabourne - CCI,18 April 2022
+204,Sanju Samson,23,21,109.52,1,2,RCB,Narendra Modi Stadium,27 May 2022
+205,Sanju Samson,16,7,228.57,0,2,MI,DY Patil Stadium,30 April 2022
+206,Devdutt Padikkal,37,29,127.58,2,2,RCB,Wankhede Stadium,05 April 2022
+207,Devdutt Padikkal,54,35,154.28,7,2,DC,Wankhede Stadium,22 April 2022
+208,Devdutt Padikkal,39,18,216.66,5,2,LSG,Brabourne - CCI,15 May 2022
+209,Devdutt Padikkal,41,29,141.37,4,2,SRH,Maharashtra Cricket Association Stadium,29 March 2022
+210,Devdutt Padikkal,28,20,140,2,2,GT,Eden Gardens,24 May 2022
+211,Devdutt Padikkal,48,30,160,6,2,DC,DY Patil Stadium,11 May 2022
+212,Moeen Ali,48,35,137.14,3,2,SRH,DY Patil Stadium,09 April 2022
+213,Moeen Ali,21,17,123.52,0,2,GT,Wankhede Stadium,15 May 2022
+214,Moeen Ali,35,22,159.09,4,2,LSG,Brabourne - CCI,31 March 2022
+215,Moeen Ali,34,27,125.92,2,2,RCB,Maharashtra Cricket Association Stadium,04 May 2022
+216,Shimron Hetmyer,26,13,200,2,2,KKR,Brabourne - CCI,18 April 2022
+217,Shimron Hetmyer,31,16,193.75,3,2,PBKS,Wankhede Stadium,07 May 2022
+218,Shimron Hetmyer,27,13,207.69,1,2,KKR,Wankhede Stadium,02 May 2022
+219,Shimron Hetmyer,42,31,135.48,4,2,RCB,Wankhede Stadium,05 April 2022
+220,Shivam Dube,32,19,168.42,2,2,DC,DY Patil Stadium,08 May 2022
+221,Shivam Dube,49,30,163.33,5,2,LSG,Brabourne - CCI,31 March 2022
+222,Abhishek Sharma,43,28,153.57,4,2,KKR,Maharashtra Cricket Association Stadium,14 May 2022
+223,Abhishek Sharma,43,32,134.37,5,2,PBKS,Wankhede Stadium,22 May 2022
+224,David Warner,61,45,135.55,6,2,KKR,Brabourne - CCI,10 April 2022
+225,David Warner,19,12,158.33,1,2,CSK,DY Patil Stadium,08 May 2022
+226,Deepak Hooda,59,39,151.28,5,2,RR,Brabourne - CCI,15 May 2022
+227,Deepak Hooda,55,41,134.14,6,2,GT,Wankhede Stadium,28 March 2022
+228,Deepak Hooda,34,28,121.42,1,2,PBKS,Maharashtra Cricket Association Stadium,29 April 2022
+229,Deepak Hooda,41,27,151.85,4,2,KKR,Maharashtra Cricket Association Stadium,07 May 2022
+230,Rashid Khan,19,6,316.66,1,2,RCB,Wankhede Stadium,19 May 2022
+231,Wriddhiman Saha,55,40,137.5,6,2,MI,Brabourne - CCI,06 May 2022
+232,Jason Holder,16,9,177.77,0,2,RCB,DY Patil Stadium,19 April 2022
+233,Jason Holder,13,4,325,0,2,KKR,Maharashtra Cricket Association Stadium,07 May 2022
+234,Aiden Markram,17,10,170,0,2,CSK,Maharashtra Cricket Association Stadium,01 May 2022
+235,Aiden Markram,57,41,139.02,5,2,RR,Maharashtra Cricket Association Stadium,29 March 2022
+236,Rovman Powell,35,21,166.66,3,2,LSG,Wankhede Stadium,01 May 2022
+237,Romario Shepherd,24,18,133.33,0,2,RR,Maharashtra Cricket Association Stadium,29 March 2022
+238,Romario Shepherd,26,15,173.33,2,2,PBKS,Wankhede Stadium,22 May 2022
+239,Bhanuka Rajapaksa,27,18,150,2,2,RR,Wankhede Stadium,07 May 2022
+240,Bhanuka Rajapaksa,42,32,131.25,2,2,CSK,Wankhede Stadium,25 April 2022
+241,Priyam Garg,42,26,161.53,4,2,MI,Wankhede Stadium,17 May 2022
+242,Yashasvi Jaiswal,21,13,161.53,1,2,RCB,Narendra Modi Stadium,27 May 2022
+243,Yashasvi Jaiswal,68,41,165.85,9,2,PBKS,Wankhede Stadium,07 May 2022
+244,Yashasvi Jaiswal,22,16,137.5,1,2,GT,Narendra Modi Stadium,29 May 2022
+245,Lalit Yadav,37,24,154.16,3,2,RR,Wankhede Stadium,22 April 2022
+246,Lalit Yadav,48,38,126.31,4,2,MI,Brabourne - CCI,27 March 2022
+247,Venkatesh Iyer,18,8,225,1,2,DC,Brabourne - CCI,10 April 2022
+248,Shahrukh Khan,26,28,92.85,1,2,SRH,DY Patil Stadium,17 April 2022
+249,Shahrukh Khan,24,20,120,1,2,RCB,DY Patil Stadium,27 March 2022
+250,Shahrukh Khan,15,6,250,0,2,MI,Maharashtra Cricket Association Stadium,13 April 2022
+251,Shahrukh Khan,15,8,187.5,0,2,GT,Brabourne - CCI,08 April 2022
+252,Rajat Patidar,48,38,126.31,4,2,SRH,Wankhede Stadium,08 May 2022
+253,Rajat Patidar,52,32,162.5,5,2,GT,Brabourne - CCI,30 April 2022
+254,Rajat Patidar,26,21,123.8,1,2,PBKS,Brabourne - CCI,13 May 2022
+255,Devon Conway,56,37,151.35,6,2,RCB,Maharashtra Cricket Association Stadium,04 May 2022
+256,Dushmantha Chameera,17,10,170,0,2,PBKS,Maharashtra Cricket Association Stadium,29 April 2022
+257,Tim David,16,7,228.57,0,2,CSK,Wankhede Stadium,12 May 2022
+258,Dewald Brevis,29,19,152.63,2,2,KKR,Maharashtra Cricket Association Stadium,06 April 2022
+259,Abhinav Manohar,43,28,153.57,4,2,RR,DY Patil Stadium,14 April 2022
+260,Ayush Badoni,19,9,211.11,0,2,CSK,Brabourne - CCI,31 March 2022
+261,Tilak Varma,38,27,140.74,3,2,KKR,Maharashtra Cricket Association Stadium,06 April 2022
+262,Tilak Varma,38,27,140.74,2,2,LSG,Wankhede Stadium,24 April 2022
+263,Tilak Varma,51,43,118.6,3,2,CSK,DY Patil Stadium,21 April 2022
+264,Tilak Varma,36,20,180,3,2,PBKS,Maharashtra Cricket Association Stadium,13 April 2022
+265,Tilak Varma,35,30,116.66,1,2,RR,DY Patil Stadium,30 April 2022
+266,Jitesh Sharma,44,34,129.41,3,2,DC,DY Patil Stadium,16 May 2022
+267,Jitesh Sharma,30,15,200,2,2,MI,Maharashtra Cricket Association Stadium,13 April 2022
+268,Jitesh Sharma,23,11,209.09,1,2,GT,Brabourne - CCI,08 April 2022
+269,Jitesh Sharma,38,18,211.11,4,2,RR,Wankhede Stadium,07 May 2022
+270,Virat Kohli,58,53,109.43,6,1,GT,Brabourne - CCI,30 April 2022
+271,Virat Kohli,20,14,142.85,2,1,PBKS,Brabourne - CCI,13 May 2022
+272,Virat Kohli,30,33,90.9,3,1,CSK,Maharashtra Cricket Association Stadium,04 May 2022
+273,Virat Kohli,7,8,87.5,0,1,RR,Narendra Modi Stadium,27 May 2022
+274,Aaron Finch,7,5,140,0,1,SRH,Brabourne - CCI,15 April 2022
+275,Rohit Sharma,26,15,173.33,4,1,RCB,Maharashtra Cricket Association Stadium,09 April 2022
+276,Rohit Sharma,39,31,125.8,5,1,LSG,Wankhede Stadium,24 April 2022
+277,Rohit Sharma,10,5,200,0,1,RR,DY Patil Stadium,02 April 2022
+278,Shikhar Dhawan,62,53,116.98,8,1,GT,DY Patil Stadium,03 May 2022
+279,Shikhar Dhawan,43,29,148.27,5,1,RCB,DY Patil Stadium,27 March 2022
+280,Shikhar Dhawan,21,15,140,2,1,RCB,Brabourne - CCI,13 May 2022
+281,Shikhar Dhawan,16,15,106.66,1,1,KKR,Wankhede Stadium,01 April 2022
+282,Shikhar Dhawan,33,24,137.5,4,1,CSK,Brabourne - CCI,03 April 2022
+283,Shreyas Iyer,34,32,106.25,3,1,RR,Wankhede Stadium,02 May 2022
+284,Shreyas Iyer,12,15,80,1,1,GT,DY Patil Stadium,23 April 2022
+285,Dinesh Karthik,13,8,162.5,0,1,LSG,DY Patil Stadium,19 April 2022
+286,Dinesh Karthik,7,2,350,0,1,MI,Maharashtra Cricket Association Stadium,09 April 2022
+287,Dinesh Karthik,44,23,191.3,7,1,RR,Wankhede Stadium,05 April 2022
+288,Dinesh Karthik,14,7,200,1,1,KKR,DY Patil Stadium,30 March 2022
+289,Dinesh Karthik,37,23,160.86,5,1,LSG,Eden Gardens,25 May 2022
+290,Kuldeep Yadav,16,8,200,1,1,LSG,Wankhede Stadium,01 May 2022
+291,Kuldeep Yadav,14,14,100,0,1,GT,Maharashtra Cricket Association Stadium,02 April 2022
+292,Manish Pandey,11,10,110,1,1,SRH,DY Patil Stadium,04 April 2022
+293,Manish Pandey,22,22,100,0,1,MI,Wankhede Stadium,24 April 2022
+294,Krunal Pandya,19,14,135.71,0,1,DC,DY Patil Stadium,07 April 2022
+295,Krunal Pandya,25,23,108.69,1,1,RR,Brabourne - CCI,15 May 2022
+296,Rishabh Pant,39,33,118.18,4,1,MI,Wankhede Stadium,21 May 2022
+297,Rishabh Pant,44,30,146.66,7,1,LSG,Wankhede Stadium,01 May 2022
+298,Rishabh Pant,7,3,233.33,0,1,PBKS,DY Patil Stadium,16 May 2022
+299,K L Rahul,68,50,136,6,1,SRH,DY Patil Stadium,04 April 2022
+300,K L Rahul,10,19,52.63,0,1,RR,Brabourne - CCI,15 May 2022
+301,K L Rahul,30,24,125,3,1,RCB,DY Patil Stadium,19 April 2022
+302,K L Rahul,24,25,96,1,1,DC,DY Patil Stadium,07 April 2022
+303,Washington Sundar,25,19,131.57,3,1,PBKS,Wankhede Stadium,22 May 2022
+304,Umesh Yadav,15,15,100,1,1,GT,DY Patil Stadium,23 April 2022
+305,Umesh Yadav,18,12,150,2,1,RCB,DY Patil Stadium,30 March 2022
+306,Marcus Stoinis,17,16,106.25,1,1,DC,Wankhede Stadium,01 May 2022
+307,Marcus Stoinis,24,15,160,2,1,RCB,DY Patil Stadium,19 April 2022
+308,Marcus Stoinis,10,9,111.11,0,1,MI,Brabourne - CCI,16 April 2022
+309,Marcus Stoinis,9,9,100,0,1,RCB,Eden Gardens,25 May 2022
+310,Glenn Maxwell,35,22,159.09,3,1,PBKS,Brabourne - CCI,13 May 2022
+311,Glenn Maxwell,9,10,90,0,1,LSG,Eden Gardens,25 May 2022
+312,Glenn Maxwell,23,11,209.09,3,1,LSG,DY Patil Stadium,19 April 2022
+313,Mitchell Marsh,25,20,125,3,1,CSK,DY Patil Stadium,08 May 2022
+314,Ajinkya Rahane,44,34,129.41,6,1,CSK,Wankhede Stadium,26 March 2022
+315,Ravichandran Ashwin,21,9,233.33,3,1,MI,DY Patil Stadium,30 April 2022
+316,Ravichandran Ashwin,8,8,100,0,1,GT,DY Patil Stadium,14 April 2022
+317,Ravindra Jadeja,26,28,92.85,0,1,KKR,Wankhede Stadium,26 March 2022
+318,Ravindra Jadeja,23,15,153.33,2,1,SRH,DY Patil Stadium,09 April 2022
+319,Ravindra Jadeja,21,16,131.25,1,1,PBKS,Wankhede Stadium,25 April 2022
+320,Prithvi Shaw,24,23,104.34,2,1,MI,Wankhede Stadium,21 May 2022
+321,Prithvi Shaw,41,20,205,7,1,PBKS,Brabourne - CCI,20 April 2022
+322,Prithvi Shaw,16,13,123.07,1,1,RCB,Wankhede Stadium,16 April 2022
+323,Prithvi Shaw,37,27,137.03,5,1,RR,Wankhede Stadium,22 April 2022
+324,Hardik Pandya,33,28,117.85,5,1,LSG,Wankhede Stadium,28 March 2022
+325,Hardik Pandya,50,42,119.04,4,1,SRH,DY Patil Stadium,11 April 2022
+326,Hardik Pandya,34,30,113.33,3,1,RR,Narendra Modi Stadium,29 May 2022
+327,MS Dhoni,28,13,215.38,3,1,MI,DY Patil Stadium,21 April 2022
+328,MS Dhoni,23,28,82.14,1,1,PBKS,Brabourne - CCI,03 April 2022
+329,MS Dhoni,26,28,92.85,1,1,RR,Brabourne - CCI,20 May 2022
+330,MS Dhoni,12,8,150,1,1,PBKS,Wankhede Stadium,25 April 2022
+331,MS Dhoni,16,6,266.66,2,1,LSG,Brabourne - CCI,31 March 2022
+332,MS Dhoni,50,38,131.57,7,1,KKR,Wankhede Stadium,26 March 2022
+333,Ambati Rayudu,10,8,125,0,1,RCB,Maharashtra Cricket Association Stadium,04 May 2022
+334,Ambati Rayudu,15,17,88.23,1,1,KKR,Wankhede Stadium,26 March 2022
+335,Shubman Gill,96,59,162.71,11,1,PBKS,Brabourne - CCI,08 April 2022
+336,Shubman Gill,22,24,91.66,1,1,SRH,Wankhede Stadium,27 April 2022
+337,Shubman Gill,35,21,166.66,5,1,RR,Eden Gardens,24 May 2022
+338,Shubman Gill,31,28,110.71,3,1,RCB,Brabourne - CCI,30 April 2022
+339,Shubman Gill,45,43,104.65,3,1,RR,Narendra Modi Stadium,29 May 2022
+340,Kane Williamson,16,16,100,1,1,LSG,DY Patil Stadium,04 April 2022
+341,Kane Williamson,32,40,80,2,1,CSK,DY Patil Stadium,09 April 2022
+342,Trent Boult,11,7,157.14,0,1,GT,Narendra Modi Stadium,29 May 2022
+343,Dwayne Bravo,12,15,80,0,1,MI,Wankhede Stadium,12 May 2022
+344,Faf Du Plessis,38,22,172.72,4,1,CSK,Maharashtra Cricket Association Stadium,04 May 2022
+345,Faf Du Plessis,23,21,109.52,3,1,RR,Maharashtra Cricket Association Stadium,26 April 2022
+346,Jagadeesan Narayan,39,33,118.18,3,1,GT,Wankhede Stadium,15 May 2022
+347,Ruturaj Gaikwad,41,33,124.24,4,1,DC,DY Patil Stadium,08 May 2022
+348,Ruturaj Gaikwad,53,49,108.16,4,1,GT,Wankhede Stadium,15 May 2022
+349,Ruturaj Gaikwad,28,23,121.73,3,1,RCB,Maharashtra Cricket Association Stadium,04 May 2022
+350,Sam Billings,34,29,117.24,3,1,SRH,Maharashtra Cricket Association Stadium,14 May 2022
+351,Sam Billings,24,23,104.34,1,1,PBKS,Wankhede Stadium,01 April 2022
+352,Sam Billings,15,9,166.66,1,1,DC,Brabourne - CCI,10 April 2022
+353,Sam Billings,14,15,93.33,0,1,RCB,DY Patil Stadium,30 March 2022
+354,Sam Billings,25,22,113.63,1,1,CSK,Wankhede Stadium,26 March 2022
+355,Shardul Thakur,24,19,126.31,2,1,CSK,DY Patil Stadium,08 May 2022
+356,Shardul Thakur,10,7,142.85,0,1,RR,Wankhede Stadium,22 April 2022
+357,Avesh Khan,7,2,350,0,1,RR,Wankhede Stadium,10 April 2022
+358,Axar Patel,22,14,157.14,2,1,KKR,Brabourne - CCI,10 April 2022
+359,Axar Patel,24,17,141.17,2,1,KKR,Wankhede Stadium,28 April 2022
+360,Harshal Patel,8,11,72.72,0,1,RR,Maharashtra Cricket Association Stadium,26 April 2022
+361,Harshal Patel,9,4,225,0,1,RR,Wankhede Stadium,05 April 2022
+362,Kagiso Rabada,25,16,156.25,4,1,KKR,Wankhede Stadium,01 April 2022
+363,Kagiso Rabada,6,2,300,0,1,DC,DY Patil Stadium,16 May 2022
+364,Rahul Tewatia,14,8,175,1,1,DC,Maharashtra Cricket Association Stadium,02 April 2022
+365,Sherfane Rutherford,28,40,70,1,1,KKR,DY Patil Stadium,30 March 2022
+366,David Miller,19,14,135.71,1,1,MI,Brabourne - CCI,06 May 2022
+367,David Miller,31,14,221.42,5,1,RR,DY Patil Stadium,14 April 2022
+368,David Miller,32,19,168.42,3,1,RR,Narendra Modi Stadium,29 May 2022
+369,David Miller,26,24,108.33,1,1,LSG,Maharashtra Cricket Association Stadium,10 May 2022
+370,David Miller,39,24,162.5,4,1,RCB,Brabourne - CCI,30 April 2022
+371,Harpreet Brar,14,18,77.77,1,1,KKR,Wankhede Stadium,01 April 2022
+372,Harpreet Brar,7,5,140,0,1,RCB,Brabourne - CCI,13 May 2022
+373,Murugan Ashwin,6,2,300,0,1,LSG,Brabourne - CCI,16 April 2022
+374,Nicholas Pooran,19,14,135.71,2,1,RCB,Wankhede Stadium,08 May 2022
+375,Nicholas Pooran,35,30,116.66,1,1,PBKS,DY Patil Stadium,17 April 2022
+376,Sarfaraz Khan,32,16,200,5,1,PBKS,DY Patil Stadium,16 May 2022
+377,Sarfaraz Khan,10,7,142.85,0,1,MI,Wankhede Stadium,21 May 2022
+378,Andre Russell,9,5,180,0,1,MI,DY Patil Stadium,09 May 2022
+379,Andre Russell,11,5,220,1,1,MI,Maharashtra Cricket Association Stadium,06 April 2022
+380,Nitish Rana,10,5,200,1,1,RCB,DY Patil Stadium,30 March 2022
+381,Nitish Rana,8,7,114.28,0,1,MI,Maharashtra Cricket Association Stadium,06 April 2022
+382,Nitish Rana,18,11,163.63,1,1,RR,Brabourne - CCI,18 April 2022
+383,Nitish Rana,21,17,123.52,2,1,CSK,Wankhede Stadium,26 March 2022
+384,Rinku Singh,35,28,125,4,1,GT,DY Patil Stadium,23 April 2022
+385,Rinku Singh,42,23,182.6,6,1,RR,Wankhede Stadium,02 May 2022
+386,Rinku Singh,23,19,121.05,2,1,MI,DY Patil Stadium,09 May 2022
+387,Robin Uthappa,50,27,185.18,8,1,LSG,Brabourne - CCI,31 March 2022
+388,Sunil Narine,6,2,300,0,1,SRH,Brabourne - CCI,15 April 2022
+389,Sunil Narine,22,12,183.33,3,1,LSG,Maharashtra Cricket Association Stadium,07 May 2022
+390,Sunil Narine,12,8,150,1,1,RCB,DY Patil Stadium,30 March 2022
+391,Ishan Kishan,51,43,118.6,5,1,KKR,DY Patil Stadium,09 May 2022
+392,Ishan Kishan,45,29,155.17,5,1,GT,Brabourne - CCI,06 May 2022
+393,Ishan Kishan,54,43,125.58,5,1,RR,DY Patil Stadium,02 April 2022
+394,Ishan Kishan,43,34,126.47,5,1,SRH,Wankhede Stadium,17 May 2022
+395,Ishan Kishan,26,18,144.44,4,1,RR,DY Patil Stadium,30 April 2022
+396,Kieron Pollard,14,9,155.55,1,1,CSK,DY Patil Stadium,21 April 2022
+397,Kieron Pollard,15,16,93.75,0,1,KKR,DY Patil Stadium,09 May 2022
+398,Kieron Pollard,22,24,91.66,3,1,RR,DY Patil Stadium,02 April 2022
+399,Kieron Pollard,19,20,95,0,1,LSG,Wankhede Stadium,24 April 2022
+400,Quinton De Kock,39,32,121.87,2,1,RR,Wankhede Stadium,10 April 2022
+401,Quinton De Kock,11,10,110,0,1,GT,Maharashtra Cricket Association Stadium,10 May 2022
+402,Quinton De Kock,10,9,111.11,0,1,MI,Wankhede Stadium,24 April 2022
+403,Quinton De Kock,24,13,184.61,4,1,MI,Brabourne - CCI,16 April 2022
+404,Quinton De Kock,6,5,120,0,1,RCB,Eden Gardens,25 May 2022
+405,Quinton De Kock,23,13,176.92,3,1,DC,Wankhede Stadium,01 May 2022
+406,Rahul Chahar,22,14,157.14,2,1,GT,Brabourne - CCI,08 April 2022
+407,Rahul Chahar,12,8,150,1,1,CSK,Brabourne - CCI,03 April 2022
+408,Rahul Chahar,12,12,100,1,1,DC,Brabourne - CCI,20 April 2022
+409,Rahul Chahar,25,24,104.16,2,1,DC,DY Patil Stadium,16 May 2022
+410,Suryakumar Yadav,13,11,118.18,0,1,GT,Brabourne - CCI,06 May 2022
+411,Suryakumar Yadav,32,21,152.38,3,1,CSK,DY Patil Stadium,21 April 2022
+412,Jaydev Unadkat,14,6,233.33,2,1,LSG,Brabourne - CCI,16 April 2022
+413,Jaydev Unadkat,19,9,211.11,1,1,CSK,DY Patil Stadium,21 April 2022
+414,Jaydev Unadkat,12,7,171.42,0,1,PBKS,Maharashtra Cricket Association Stadium,13 April 2022
+415,Jos Buttler,13,11,118.18,1,1,LSG,Wankhede Stadium,10 April 2022
+416,Jos Buttler,30,16,187.5,5,1,PBKS,Wankhede Stadium,07 May 2022
+417,Liam Livingstone,19,16,118.75,1,1,KKR,Wankhede Stadium,01 April 2022
+418,Mahipal Lomror,16,8,200,2,1,GT,Brabourne - CCI,30 April 2022
+419,Mahipal Lomror,6,3,200,0,1,PBKS,Brabourne - CCI,13 May 2022
+420,Rahul Tripathi,44,30,146.66,5,1,LSG,DY Patil Stadium,04 April 2022
+421,Rahul Tripathi,7,3,233.33,0,1,RCB,Brabourne - CCI,23 April 2022
+422,Rahul Tripathi,34,22,154.54,4,1,PBKS,DY Patil Stadium,17 April 2022
+423,Rahul Tripathi,17,11,154.54,1,1,GT,DY Patil Stadium,11 April 2022
+424,Rahul Tripathi,22,18,122.22,2,1,DC,Brabourne - CCI,05 May 2022
+425,Rahul Tripathi,16,10,160,2,1,GT,Wankhede Stadium,27 April 2022
+426,Rahul Tripathi,20,18,111.11,1,1,PBKS,Wankhede Stadium,22 May 2022
+427,Riyan Parag,8,4,200,0,1,LSG,Wankhede Stadium,10 April 2022
+428,Riyan Parag,9,5,180,0,1,DC,DY Patil Stadium,11 May 2022
+429,Riyan Parag,18,16,112.5,1,1,GT,DY Patil Stadium,14 April 2022
+430,Riyan Parag,19,16,118.75,0,1,LSG,Brabourne - CCI,15 May 2022
+431,Sanju Samson,11,11,100,0,1,GT,DY Patil Stadium,14 April 2022
+432,Sanju Samson,8,8,100,0,1,RCB,Wankhede Stadium,05 April 2022
+433,Sanju Samson,54,49,110.2,7,1,KKR,Wankhede Stadium,02 May 2022
+434,Shashank Singh,8,9,88.88,0,1,RCB,Wankhede Stadium,08 May 2022
+435,Devdutt Padikkal,24,18,133.33,3,1,KKR,Brabourne - CCI,18 April 2022
+436,Devdutt Padikkal,7,7,100,0,1,RCB,Maharashtra Cricket Association Stadium,26 April 2022
+437,Shimron Hetmyer,29,17,170.58,2,1,GT,DY Patil Stadium,14 April 2022
+438,Shivam Dube,13,14,92.85,0,1,MI,DY Patil Stadium,21 April 2022
+439,Abhishek Sharma,31,25,124,3,1,PBKS,DY Patil Stadium,17 April 2022
+440,Abhishek Sharma,39,24,162.5,5,1,CSK,Maharashtra Cricket Association Stadium,01 May 2022
+441,Abhishek Sharma,47,28,167.85,8,1,RCB,Brabourne - CCI,23 April 2022
+442,David Warner,28,14,200,5,1,RR,Wankhede Stadium,22 April 2022
+443,David Warner,52,41,126.82,5,1,RR,DY Patil Stadium,11 May 2022
+444,David Warner,60,30,200,10,1,PBKS,Brabourne - CCI,20 April 2022
+445,Deepak Hooda,13,8,162.5,1,1,CSK,Brabourne - CCI,31 March 2022
+446,Deepak Hooda,15,8,187.5,1,1,MI,Brabourne - CCI,16 April 2022
+447,Deepak Hooda,52,34,152.94,6,1,DC,Wankhede Stadium,01 May 2022
+448,Jonny Bairstow,28,15,186.66,4,1,DC,DY Patil Stadium,16 May 2022
+449,Jonny Bairstow,56,40,140,8,1,RR,Wankhede Stadium,07 May 2022
+450,Wriddhiman Saha,31,22,140.9,4,1,RCB,Wankhede Stadium,19 May 2022
+451,Wriddhiman Saha,25,25,100,2,1,KKR,DY Patil Stadium,23 April 2022
+452,Wriddhiman Saha,21,17,123.52,3,1,PBKS,DY Patil Stadium,03 May 2022
+453,Wriddhiman Saha,68,38,178.94,11,1,SRH,Wankhede Stadium,27 April 2022
+454,Wriddhiman Saha,67,57,117.54,8,1,CSK,Wankhede Stadium,15 May 2022
+455,Jason Holder,11,8,137.5,0,1,PBKS,Maharashtra Cricket Association Stadium,29 April 2022
+456,Jason Holder,8,3,266.66,0,1,SRH,DY Patil Stadium,04 April 2022
+457,Aiden Markram,21,27,77.77,1,1,RCB,Wankhede Stadium,08 May 2022
+458,Aiden Markram,41,27,151.85,4,1,PBKS,DY Patil Stadium,17 April 2022
+459,Dwaine Pretorius,8,4,200,0,1,PBKS,Brabourne - CCI,03 April 2022
+460,Dwaine Pretorius,22,14,157.14,2,1,MI,DY Patil Stadium,21 April 2022
+461,Dwaine Pretorius,13,8,162.5,1,1,RCB,Maharashtra Cricket Association Stadium,04 May 2022
+462,Rovman Powell,20,12,166.66,2,1,GT,Maharashtra Cricket Association Stadium,02 April 2022
+463,Rovman Powell,8,6,133.33,0,1,KKR,Brabourne - CCI,10 April 2022
+464,Romario Shepherd,8,8,100,0,1,LSG,DY Patil Stadium,04 April 2022
+465,Bhanuka Rajapaksa,9,5,180,0,1,CSK,Brabourne - CCI,03 April 2022
+466,Bhanuka Rajapaksa,40,28,142.85,5,1,GT,DY Patil Stadium,03 May 2022
+467,Wanindu Hasaranga,7,3,233.33,0,1,CSK,DY Patil Stadium,12 April 2022
+468,Shahbaz Ahmed,17,27,62.96,0,1,RR,Maharashtra Cricket Association Stadium,26 April 2022
+469,Shahbaz Ahmed,12,8,150,1,1,RR,Narendra Modi Stadium,27 May 2022
+470,Shahbaz Ahmed,32,21,152.38,3,1,DC,Wankhede Stadium,16 April 2022
+471,Yashasvi Jaiswal,41,29,141.37,6,1,LSG,Brabourne - CCI,15 May 2022
+472,Yashasvi Jaiswal,59,44,134.09,8,1,CSK,Brabourne - CCI,20 May 2022
+473,Yashasvi Jaiswal,19,19,100,1,1,DC,DY Patil Stadium,11 May 2022
+474,Yashasvi Jaiswal,20,16,125,2,1,SRH,Maharashtra Cricket Association Stadium,29 March 2022
+475,Anuj Rawat,21,20,105,2,1,PBKS,DY Patil Stadium,27 March 2022
+476,Lalit Yadav,24,21,114.28,1,1,PBKS,DY Patil Stadium,16 May 2022
+477,Lalit Yadav,25,22,113.63,2,1,GT,Maharashtra Cricket Association Stadium,02 April 2022
+478,Lalit Yadav,22,29,75.86,1,1,KKR,Wankhede Stadium,28 April 2022
+479,Mohsin Khan,13,6,216.66,1,1,PBKS,Maharashtra Cricket Association Stadium,29 April 2022
+480,Daniel Sams,7,2,350,0,1,DC,Brabourne - CCI,27 March 2022
+481,Daniel Sams,6,1,600,0,1,RR,DY Patil Stadium,30 April 2022
+482,Daniel Sams,15,11,136.36,0,1,SRH,Wankhede Stadium,17 May 2022
+483,Matthew Wade,8,10,80,0,1,RR,Narendra Modi Stadium,29 May 2022
+484,Matthew Wade,16,13,123.07,2,1,RCB,Wankhede Stadium,19 May 2022
+485,Sean Abbott,7,5,140,0,1,DC,Brabourne - CCI,05 May 2022
+486,Ripal Patel,6,3,200,0,1,CSK,DY Patil Stadium,08 May 2022
+487,Sheldon Jackson,7,7,100,0,1,SRH,Brabourne - CCI,15 April 2022
+488,Venkatesh Iyer,50,41,121.95,6,1,MI,Maharashtra Cricket Association Stadium,06 April 2022
+489,Marco Jansen,8,5,160,0,1,GT,Wankhede Stadium,27 April 2022
+490,Shahrukh Khan,19,10,190,2,1,SRH,Wankhede Stadium,22 May 2022
+491,Rajat Patidar,21,15,140,1,1,CSK,Maharashtra Cricket Association Stadium,04 May 2022
+492,Rajat Patidar,16,16,100,0,1,RR,Maharashtra Cricket Association Stadium,26 April 2022
+493,Suyash S Prabhudessai,10,9,111.11,0,1,LSG,DY Patil Stadium,19 April 2022
+494,Suyash S Prabhudessai,34,18,188.88,5,1,CSK,DY Patil Stadium,12 April 2022
+495,Devon Conway,16,14,114.28,1,1,RR,Brabourne - CCI,20 May 2022
+496,Dushmantha Chameera,11,4,275,1,1,RCB,Eden Gardens,25 May 2022
+497,Maheesh Theekshana,7,4,175,0,1,RCB,Maharashtra Cricket Association Stadium,04 May 2022
+498,Tim David,12,8,150,0,1,DC,Brabourne - CCI,27 March 2022
+499,Tim David,20,9,222.22,2,1,RR,DY Patil Stadium,30 April 2022
+500,Obed McCoy,8,5,160,0,1,GT,Narendra Modi Stadium,29 May 2022
+501,Dewald Brevis,31,13,238.46,6,1,LSG,Brabourne - CCI,16 April 2022
+502,Odean Smith,9,12,75,0,1,KKR,Wankhede Stadium,01 April 2022
+503,Odean Smith,13,15,86.66,0,1,SRH,DY Patil Stadium,17 April 2022
+504,Abhinav Manohar,35,21,166.66,5,1,SRH,DY Patil Stadium,11 April 2022
+505,Sai Sudharsan,65,50,130,5,1,PBKS,DY Patil Stadium,03 May 2022
+506,Sai Sudharsan,35,30,116.66,4,1,PBKS,Brabourne - CCI,08 April 2022
+507,Sai Sudharsan,14,11,127.27,1,1,MI,Brabourne - CCI,06 May 2022
+508,Ayush Badoni,14,11,127.27,0,1,MI,Wankhede Stadium,24 April 2022
+509,Ayush Badoni,10,3,333.33,1,1,DC,DY Patil Stadium,07 April 2022
+510,Ramandeep Singh,14,6,233.33,1,1,SRH,Wankhede Stadium,17 May 2022
+511,Tilak Varma,21,17,123.52,1,1,DC,Wankhede Stadium,21 May 2022
+512,Rishi Dhawan,7,3,233.33,0,1,RCB,Brabourne - CCI,13 May 2022
+513,Rishi Dhawan,21,22,95.45,3,1,LSG,Maharashtra Cricket Association Stadium,29 April 2022
+514,Jitesh Sharma,19,7,271.42,3,1,SRH,Wankhede Stadium,22 May 2022
